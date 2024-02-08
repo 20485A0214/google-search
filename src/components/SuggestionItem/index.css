@@ -1,0 +1,12 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+}
+.suggestionsName {
+  color: #64748b;
+}
+.arrow-image {
+  height: 30px;
+  width: 30px;
+}
